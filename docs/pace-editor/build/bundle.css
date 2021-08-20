@@ -1,0 +1,5 @@
+.selected.svelte-13phnbp.svelte-13phnbp{background:#ff3e00;color:#fff}main.svelte-13phnbp.svelte-13phnbp{display:grid;grid-template-columns:1fr 1em 1fr}#video-details.svelte-13phnbp.svelte-13phnbp,#control-centre.svelte-13phnbp.svelte-13phnbp,#event-chart.svelte-13phnbp.svelte-13phnbp{grid-column-start:1;grid-column-end:4}#movement-list.svelte-13phnbp.svelte-13phnbp{grid-column-start:3;grid-column-end:4}#control-centre.svelte-13phnbp.svelte-13phnbp{text-align:center;margin:1em 0}#movement-list.svelte-13phnbp ul.svelte-13phnbp{list-style:none;display:inline-grid;grid-template-rows:repeat(9, auto);grid-auto-flow:column;margin-top:0;margin-bottom:0;padding-left:0}#movement-list.svelte-13phnbp li.svelte-13phnbp{font-size:smaller}
+#dragDropArea.svelte-kzc477{height:40px;line-height:40px;text-align:center;border:1px solid #000;border-style:dashed;border-radius:5px;margin-bottom:0.5em}.drag{color:#fff;background-color:#000}
+.chart.svelte-it9mno{width:100%}
+
+/*# sourceMappingURL=bundle.css.map */
